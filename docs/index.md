@@ -4,10 +4,13 @@ You can use the [editor on GitHub](https://github.com/horny-pug/TC1001-Computer-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-* [Introducción](#Introducción)
-* [Intención](#Intención)
-* [Introducción](#section-1)
-* [Introducción](#section-1)
+## Tabla de Contenidos
+
+1. [Introducción](#Introducción)
+2. [Intención](#Intención)
+3. [Convolución](#Convolución)
+4. [Kernel](#Kernel)
+5. [Mexican Hat](#Mexican-Hat)
 
 
 
@@ -15,9 +18,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
+``` py
+def hi():
+  print("Hi")
+```
 
 
 ### Intención
