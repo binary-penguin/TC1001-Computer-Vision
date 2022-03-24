@@ -4,14 +4,14 @@ You can use the [editor on GitHub](https://github.com/horny-pug/TC1001-Computer-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-* [Introduccion](#Introduccion)
-* [Intencion](#Intención)
+* [Introducción](#Introducción)
+* [Intención](#Intención)
 * [Introducción](#section-1)
 * [Introducción](#section-1)
 
 
 
-### Introduccion
+### Introducción
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 
 
-### Intencion
+### Intención
 
 
 ### 11 Hello World
