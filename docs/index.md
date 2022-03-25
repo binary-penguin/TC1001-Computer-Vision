@@ -49,11 +49,15 @@ Dentro de este curso de Semana Tec *TC1001: Herramientas computacionales: el art
 
 ### Kernels
 #### Mexican Hat
+El sombrero mexicano, o filtro Gaussiano-Laplace invertido, es un filtro. Suaviza los datos y elimina estructuras constantes o que varían lentamente (por ejemplo, el fondo). Es útil para la detección de picos o multiescala.
+
+Este núcleo se deriva de una función gaussiana normalizada, calculando la segunda derivada.
+
 #### Gaussian Blur
 
 El desenfoque gaussiano es un tipo de desenfoque que utiliza la función gaussiana para calcular la transformación que se le aplica a cada pixel de la imagen
 
-![equation](https://3.bp.blogspot.com/-cVNi7VZLB_A/V3WTNVSHSqI/AAAAAAAAAuY/J1SN00PpFGoYWgKLKo-Pa_UozqZXmDb4ACLcB/s1600/GaussianKernel.png =x100)
+![equation](https://3.bp.blogspot.com/-cVNi7VZLB_A/V3WTNVSHSqI/AAAAAAAAAuY/J1SN00PpFGoYWgKLKo-Pa_UozqZXmDb4ACLcB/s1600/GaussianKernel.png)
 
 
 
