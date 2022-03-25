@@ -39,4 +39,13 @@ def sharpen():
   # b. Return matrix
   return A
 
+def ridge():
+  # a. Apply Hessian Matrix
+  A = numpy.array([[-1, -1, -1],
+                   [-1, 8,-1],
+                   [-1, -1, -1]])
+  
+  # b. Return matrix
+  return A
+
 
