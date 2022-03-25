@@ -84,7 +84,7 @@ Los filtros de *sharpen* se utilizan para realzar los bordes de los objetos y aj
 El operador discreto de Laplace se usa a menudo en el procesamiento de imágenes, por ejemplo en aplicaciones de estimación de movimiento y detección de bordes. El *laplaciano discreto* se define como la suma de las expresiones de coordenadas del operador de Laplace de segundas derivadas y se calcula como la suma de las diferencias sobre los vecinos más cercanos del píxel central.
 
 ![laplace](https://wikimedia.org/api/rest_v1/media/math/render/svg/a80b8e15783ab0ab2c7ec21f4c2a3e13b496d12a)
-
+![laplace2](https://wikimedia.org/api/rest_v1/media/math/render/svg/76993134124e148ac5337427db2fbc926c60da04)
 
 
 
