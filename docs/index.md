@@ -91,3 +91,4 @@ El operador discreto de Laplace se usa a menudo en el procesamiento de imágenes
 
 ### Resultados
 ![res](https://github.com/horny-pug/TC1001-Computer-Vision/blob/main/images/results.jpg?raw=true)
+![res](https://github.com/horny-pug/TC1001-Computer-Vision/blob/main/images/results2.png?raw=true)
