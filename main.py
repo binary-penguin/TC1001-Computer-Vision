@@ -6,13 +6,13 @@ from scipy import ndimage
 from kernels import *
 
 if __name__ == "__main__":
-    Is = Image.open('images/Sample.png');
+    Is = Image.open('images/Sample.jpg');
     I = Is.convert('L');
     I = numpy.asarray(I);
     I = I / 255.0;
 
     k0 = mexican_hat(9)
-    k1 = gaussian(9)
+    k1 = gaussian(21)
     k2 = sharpen()
 
     J0 = ndimage.convolve(I, k0, mode='constant', cval=0.0)
