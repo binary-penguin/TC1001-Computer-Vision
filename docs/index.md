@@ -20,7 +20,7 @@
 1. [Introducción](#Introduccion)
 2. [Intención](#Intencion)
 3. [Motivaciones del Curso](#Motivaciones)
-4. [Definciones](#Definiciones)
+4. [Definiciones](#Definiciones)
    - [Kernel](#Kernel)
    - [Convolution](#Convolution)
 6. [Uso de Kernels](#Uso-de-Kernels)
@@ -28,7 +28,7 @@
    - [Gaussian Blur](#Gaussian-Blur)
    - [Sharpen](#Sharpen)
    - [Laplace Discrete Operator](#Laplace-Discrete-Operator)
-
+7. [Resultados](#Resultados)
 
 ### Introduccion
 
