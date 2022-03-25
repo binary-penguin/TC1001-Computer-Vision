@@ -34,7 +34,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Las personas tienden a tener una perspectiva lineal de la historia, sin embargo el crecimiento exponencial de la tecnología ha sido evidente en las décadas pasadas. En un abrir y cerrar de ojos hemos ido de computadores reservados para los militares a niños con dispositivos relativamente poderosos en sus bolsillos. 
 
-Uno de los campos mayor crecimiento en la ingeniería de software es la Inteligencia Artificial con técnicas como el Image Processing. Las técnicas usadas han ido madurando y se han vuelto lo suficientemente capaces para desempeñar actividades que van desde la autentificación de rostros hasta la detección de tumores malignos en pacientes, aún nos queda mucho por recorrer pero es impresionante el avance logrado.
+Uno de los campos mayor crecimiento en la ingeniería de software es la _Inteligencia Artificial_ con técnicas como el _Image Processing_. Las técnicas usadas han ido madurando y se han vuelto lo suficientemente capaces para desempeñar actividades que van desde la [autentificación de rostros](https://www.cnet.com/news/politics/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/) hasta la [detección de tumores malignos en pacientes](https://www.nature.com/articles/d41586-020-03157-9), aún nos queda mucho por recorrer pero es impresionante el avance logrado.
+
+![Hi](https://miro.medium.com/max/503/1*hqbYnsyjfRcceQqrR_HOyA.jpeg)
+
+> Imagen 1. Uso de la IA e Image Processing para la detección de rostros.
+
 
 ``` py
 def hi():
@@ -56,7 +61,7 @@ def hi():
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
