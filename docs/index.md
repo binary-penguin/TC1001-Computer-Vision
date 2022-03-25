@@ -1,9 +1,4 @@
 ## Reto TC1001
-
-You can use the [editor on GitHub](https://github.com/horny-pug/TC1001-Computer-Vision/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Integrantes
 
 `Juan Pablo Ortiz Ortega`
@@ -68,12 +63,25 @@ El sombrero mexicano, o filtro Gaussiano-Laplace invertido, es un filtro. Suaviz
 
 Este núcleo se deriva de una función gaussiana normalizada, calculando la segunda derivada.
 
+![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/7b49f9d3dd22b89089086f95782e6eb4355a537a)
+
 #### Gaussian Blur
 
-El desenfoque gaussiano es un tipo de desenfoque que utiliza la función gaussiana para calcular la transformación que se le aplica a cada pixel de la imagen
+El *desenfoque gaussiano* es un tipo de desenfoque que utiliza la función gaussiana para calcular la transformación que se le aplica a cada pixel de la imagen
 
-![equation](https://3.bp.blogspot.com/-cVNi7VZLB_A/V3WTNVSHSqI/AAAAAAAAAuY/J1SN00PpFGoYWgKLKo-Pa_UozqZXmDb4ACLcB/s1600/GaussianKernel.png)
+![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/6717136818f2166eba2db0cfc915d732add9c64f)
 
+
+#### Sharpen
+Los filtros de *sharpen* se utilizan para realzar los bordes de los objetos y ajustar el contraste y las características de sombra. En combinación con el umbral, se pueden utilizar como detectores de bordes.
+
+![fj](https://www.globalsino.com/EM/image2/1371a.GIF)
+
+
+#### Laplace Discrete Operator
+El operador discreto de Laplace se usa a menudo en el procesamiento de imágenes, por ejemplo en aplicaciones de estimación de movimiento y detección de bordes. El *laplaciano discreto* se define como la suma de las expresiones de coordenadas del operador de Laplace de segundas derivadas y se calcula como la suma de las diferencias sobre los vecinos más cercanos del píxel central.
+
+![laplace](https://wikimedia.org/api/rest_v1/media/math/render/svg/a80b8e15783ab0ab2c7ec21f4c2a3e13b496d12a)
 
 
 
