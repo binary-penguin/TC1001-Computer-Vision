@@ -26,6 +26,8 @@
 6. [Uso de Kernels](#Uso-de-Kernels)
    - [Mexican Hat](#Mexican-Hat)
    - [Gaussian Blur](#Gaussian-Blur)
+   - [Sharpen](#Sharpen)
+   - [Laplace Discrete Operator](#Laplace-Discrete-Operator)
 
 
 ### Introduccion
