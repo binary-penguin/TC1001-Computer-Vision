@@ -6,7 +6,7 @@ from scipy import ndimage
 from kernels import *
 
 if __name__ == "__main__":
-    Is = Image.open('images/Sample.jpg');
+    Is = Image.open('images/Sample.png');
     I = Is.convert('L');
     I = numpy.asarray(I);
     I = I / 255.0;
