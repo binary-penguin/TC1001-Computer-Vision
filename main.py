@@ -14,10 +14,12 @@ if __name__ == "__main__":
     k0 = mexican_hat(9)
     k1 = gaussian(21)
     k2 = sharpen()
+    k3 = ridge()
 
     J0 = ndimage.convolve(I, k0, mode='constant', cval=0.0)
     J1 = ndimage.convolve(I, k1, mode='constant', cval=0.0)
     J2 = ndimage.convolve(I, k2, mode='constant', cval=0.0)
+    J3 = ndimage.convolve(I, k3, mode='constant', cval=0.0)
     
 
     plt.figure(figsize = (15,15))
@@ -37,6 +39,10 @@ if __name__ == "__main__":
     plt.subplot(2,3,4)
     plt.imshow(J2)
     plt.xlabel('Sharpen')
+
+    plt.subplot(2,3,5)
+    plt.imshow(J3)
+    plt.xlabel('Ridge')
 
 
     plt.grid(False)
