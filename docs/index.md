@@ -6,33 +6,35 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Integrantes
 
-`Juan Pablo Ortiz Ortega
-a01366969@tec.mx
+`Juan Pablo Ortiz Ortega`
+`a01366969@tec.mx`
 
-Miguel Ángel Santamaria Vilchis
-a01366795@tec.mx
+`Miguel Ángel Santamaria Vilchis`
+`a01366795@tec.mx`
 
-Josué Jemuel Flores Nestor
-a01367182@tec.mx
+`Josué Jemuel Flores Nestor`
+`a01367182@tec.mx`
 
-Jorge Alberto Flores Ponce
-a01769059@tec.mx`
+`Jorge Alberto Flores Ponce`
+`a01769059@tec.mx`
 
 
 
 ## Tabla de Contenidos
 
-1. [Introducción](#Introducción)
-2. [Intención](#Intención)
-3. [Convolución](#Convolución)
+1. [Introducción](#Introduccion)
+2. [Intención](#Intencion)
+3. [Motivaciones](#Motivaciones)
 4. [Kernel](#Kernel)
 5. [Mexican Hat](#Mexican-Hat)
 
 
 
-### Introducción
+### Introduccion
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Las personas tienden a tener una perspectiva lineal de la historia, sin embargo el crecimiento exponencial de la tecnología ha sido evidente en las décadas pasadas. En un abrir y cerrar de ojos hemos ido de computadores reservados para los militares a niños con dispositivos relativamente poderosos en sus bolsillos. 
+
+Uno de los campos mayor crecimiento en la ingeniería de software es la Inteligencia Artificial con técnicas como el Image Processing. Las técnicas usadas han ido madurando y se han vuelto lo suficientemente capaces para desempeñar actividades que van desde la autentificación de rostros hasta la detección de tumores malignos en pacientes, aún nos queda mucho por recorrer pero es impresionante el avance logrado.
 
 ``` py
 def hi():
@@ -40,7 +42,7 @@ def hi():
 ```
 
 
-### Intención
+### Motivaciones
 
 
 ### 11 Hello World
