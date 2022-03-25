@@ -4,6 +4,22 @@ You can use the [editor on GitHub](https://github.com/horny-pug/TC1001-Computer-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Integrantes
+
+`Juan Pablo Ortiz Ortega
+a01366969@tec.mx
+
+Miguel Ángel Santamaria Vilchis
+a01366795@tec.mx
+
+Josué Jemuel Flores Nestor
+a01367182@tec.mx
+
+Jorge Alberto Flores Ponce
+a01769059@tec.mx`
+
+
+
 ## Tabla de Contenidos
 
 1. [Introducción](#Introducción)
