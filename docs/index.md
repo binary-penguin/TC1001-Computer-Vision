@@ -77,7 +77,7 @@ El *desenfoque gaussiano* es un tipo de desenfoque que utiliza la función gauss
 #### Sharpen
 Los filtros de *sharpen* se utilizan para realzar los bordes de los objetos y ajustar el contraste y las características de sombra. En combinación con el umbral, se pueden utilizar como detectores de bordes.
 
-![fj](https://www.globalsino.com/EM/image2/1371a.GIF)
+![fj](https://wikimedia.org/api/rest_v1/media/math/render/svg/beb8b9a493e8b9cf5deccd61bd845a59ea2e62cc)
 
 
 #### Laplace Discrete Operator
