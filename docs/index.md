@@ -29,7 +29,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
    - [Mexican Hat](#Mexican-Hat)
    - [Gaussian Blur](#Gaussian-Blur)
 
-
+<br>
 
 
 ### Introduccion
@@ -42,22 +42,22 @@ Uno de los campos mayor crecimiento en la ingeniería de software es la _Intelig
 
 > Imagen 1. Uso de la IA e Image Processing para la detección de rostros.
 
-
+<br>
 ### Motivaciones del curso
 Dentro de este curso de Semana Tec *TC1001: Herramientas computacionales: el arte de la programación* se busca acercar a los estudiantes a este tipo de tecnologías de _Image Processing_ y por medio de unos cuantos ejercicios hacer uso de las bibliotecas ya presentes en lenguajes de script como Python, a continuación demostraremos el uso de ciertos filtros o kernels dentro de una misma imagen y cual es el resultado.
-
+<br>
 ### Kernels
 
 #### Mexican Hat
 
 $G(x,y) = \frac{1}{2 \pi \sigma ^2} e ^{- \frac{x^2 + y^2}{2 \sigma ^2}}$
-
+<br>
 #### Gaussian Blur
 
 El desenfoque gaussiano es un tipo de desenfoque que utiliza la función gaussiana para calcular la transformación que se le aplica a cada pixel de la imagen
 
 ![equation](https://3.bp.blogspot.com/-cVNi7VZLB_A/V3WTNVSHSqI/AAAAAAAAAuY/J1SN00PpFGoYWgKLKo-Pa_UozqZXmDb4ACLcB/s1600/GaussianKernel.png =x100)
-
+<br>
 1. Numbered
 2. List
 
