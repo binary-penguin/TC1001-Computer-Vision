@@ -20,7 +20,7 @@
 1. [Introducción](#Introduccion)
 2. [Intención](#Intencion)
 3. [Motivaciones del Curso](#Motivaciones)
-4. [Definciones](#Definiciones)
+4. [Definiciones](#Definiciones)
    - [Kernel](#Kernel)
    - [Convolution](#Convolution)
 6. [Uso de Kernels](#Uso-de-Kernels)
@@ -28,7 +28,7 @@
    - [Gaussian Blur](#Gaussian-Blur)
    - [Sharpen](#Sharpen)
    - [Laplace Discrete Operator](#Laplace-Discrete-Operator)
-
+7. [Resultados](#Resultados)
 
 ### Introduccion
 
@@ -71,7 +71,9 @@ Este núcleo se deriva de una función gaussiana normalizada, calculando la segu
 
 El *desenfoque gaussiano* es un tipo de desenfoque que utiliza la función gaussiana para calcular la transformación que se le aplica a cada pixel de la imagen
 
-![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/6717136818f2166eba2db0cfc915d732add9c64f)
+![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/6717136818f2166eba2db0cfc915d732add9c64f), 
+![blur-matr](https://wikimedia.org/api/rest_v1/media/math/render/svg/ca9c0da52fe7818783942b06aac9cf396ae628bf)
+
 
 
 #### Sharpen
@@ -84,7 +86,8 @@ Los filtros de *sharpen* se utilizan para realzar los bordes de los objetos y aj
 El operador discreto de Laplace se usa a menudo en el procesamiento de imágenes, por ejemplo en aplicaciones de estimación de movimiento y detección de bordes. El *laplaciano discreto* se define como la suma de las expresiones de coordenadas del operador de Laplace de segundas derivadas y se calcula como la suma de las diferencias sobre los vecinos más cercanos del píxel central.
 
 ![laplace](https://wikimedia.org/api/rest_v1/media/math/render/svg/a80b8e15783ab0ab2c7ec21f4c2a3e13b496d12a)
-![laplace2](https://wikimedia.org/api/rest_v1/media/math/render/svg/76993134124e148ac5337427db2fbc926c60da04)
+![laplace2](https://wikimedia.org/api/rest_v1/media/math/render/svg/f800ad5f76b6c26c729ff0c1fef44284d7cade7a)
 
 
-
+### Resultados
+![res](https://github.com/horny-pug/TC1001-Computer-Vision/blob/main/images/results.jpg)
