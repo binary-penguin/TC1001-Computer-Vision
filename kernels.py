@@ -29,3 +29,14 @@ def gaussian(size):
 
   # d. Return matrix
   return A
+
+def sharpen():
+  # a. Create sharpen matrix
+  A = numpy.array([[0, -1, 0],
+                   [-1, 5,-1],
+                   [0, -1, 0]])
+  
+  # b. Return matrix
+  return A
+
+
